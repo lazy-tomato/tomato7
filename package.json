@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "属于自己一个npm包",
   "main": "src/index.js",
+  "homepage": "https://github.com/lazy-tomato/tomato7/blob/main/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx webpack"
