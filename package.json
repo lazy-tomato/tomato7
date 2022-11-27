@@ -1,0 +1,28 @@
+{
+  "name": "tomato7",
+  "version": "1.0.1",
+  "description": "属于自己一个npm包",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lazy-tomato/tomato7"
+  },
+  "keywords": [
+    "javascript",
+    "tomato"
+  ],
+  "author": "lazy_tomato",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
